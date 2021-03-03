@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Factura>
+  <persona>
+    <id>1234567</id>
+    <nombre>loco</nombre>
+    <apellidos>lococ</apellidos>
+    <direccion>mic asa we</direccion>
+  </persona>
+  <persona>
+    <id>111</id>
+    <nombre>ceramicas</nombre>
+    <apellidos>1000</apellidos>
+    <direccion>2</direccion>
+  </persona>
+  <persona>
+    <id>111</id>
+    <nombre>camote </nombre>
+    <apellidos>1000</apellidos>
+    <direccion>2</direccion>
+  </persona>
+  <persona>
+    <id>111</id>
+    <nombre>manzanas</nombre>
+    <apellidos>1000</apellidos>
+    <direccion>2</direccion>
+  </persona>
+  <persona>
+    <id>111</id>
+    <nombre>ceramicas</nombre>
+    <apellidos>1000</apellidos>
+    <direccion>2</direccion>
+  </persona>
+</Factura>
